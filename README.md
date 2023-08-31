@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-403" alt="abhishek-403" /></a> </p>
 
-- 🔭 I’m currently working on [CollegeKeDin](https://github.com/abhishek-403/CollegeKeDin.git)
+- 🔭 I’m currently working on [Buzz](https://github.com/abhishek-403/Buzz)
 
 - 🌱 I’m currently learning **React native, tailwind,firebase**
 
