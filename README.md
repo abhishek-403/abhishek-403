@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Buzz](https://github.com/abhishek-403/Buzz)
 
-- 🌱 I’m currently learning **Doceker, AWS, Kubernetes **
+- 🌱 I’m currently learning **Doceker, AWS, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://abhishek404.netlify.app/](https://abhishek404.netlify.app/)
 
