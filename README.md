@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-403" alt="abhishek-403" /></a> </p>
 
-- 🔭 I’m currently working on [Buzz](https://github.com/abhishek-403/Buzz)
-
 - 🌱 I’m currently learning **Docker, AWS, Kubernets**
 
 - 👨‍💻 All of my projects are available at [https://abhishek404.netlify.app/](https://abhishek404.netlify.app/)
