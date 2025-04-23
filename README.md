@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-403" alt="abhishek-403" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, AWS, Kubernets**
-
 - 👨‍💻 All of my projects are available at [https://abhishek404.netlify.app/](https://abhishek404.netlify.app/)
 
-- 💬 Ask me about **React.js, Express.js,Redux,MongoDB,Node.js**
+- 💬 Ask me about **React.js, Express.js, Redux, MongoDB, Node.js**
 
 - 📫 How to reach me **abhishek605404@gmail.com**
 
