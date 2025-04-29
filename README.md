@@ -38,5 +38,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-403&show_icons=true&locale=en&count_private=true&layout=compact&%20title_color=blue&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhishek-403" />
 </p>
 
-<a href="http://www.github.com/abhishek-403""><img src="https://streak-stats.demolab.com?user=abhishek-403&theme=dark" alt="GitHub Streak" /></a>
+<a href="http://www.github.com/abhishek-403"><img src="https://streak-stats.demolab.com?user=abhishek-403&theme=dark" alt="GitHub Streak" /></a>
 
